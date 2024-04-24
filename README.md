@@ -10,3 +10,4 @@ getUserData({ firstName: 'Alejandro', favoriteColor: 'purple' }); // *
 getUserData({ firstName: 'Melissa' }); // **
 getUserData({}); // ***
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
